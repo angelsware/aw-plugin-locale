@@ -1,4 +1,4 @@
-# aw-plugin-gps
+# aw-plugin-locale
 
 Locale plugin for Angels' Ware rendering engine.
 
